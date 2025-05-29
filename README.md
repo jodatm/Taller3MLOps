@@ -106,7 +106,7 @@ Desarrollar un sistema basico de ML capaz de predecir si un paciente puede padec
 
 # CHANGELOG
 
-Este archivo documenta los cambios realizados entre la propuesta original del pipeline y la versión final refinada
+Se documentan los cambios realizados entre la propuesta original del pipeline y la versión final refinada
 
 ---
 
