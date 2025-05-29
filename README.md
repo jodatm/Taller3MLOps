@@ -102,4 +102,30 @@ Desarrollar un sistema basico de ML capaz de predecir si un paciente puede padec
 
 ## Diagrama General del Pipeline
 
-![Postman](pipeline.svg)
+![Pipeline](pipeline.svg)
+
+# CHANGELOG
+
+Este archivo documenta los cambios realizados entre la propuesta original del pipeline y la versión final refinada
+
+---
+
+## Versión inicial (Semana 1)
+
+- Descripción muy general del pipeline
+- No se detallaron tecnologías utilizadas
+- Sin justificación de decisiones técnicas
+- Despliegue descrito vagamente ("como lo que hice...")
+- Diagrama genérico sin enfoque en el problema médico
+- Sin mención clara de supuestos ni consideraciones clínicas
+- Sin detalles sobre validación, monitoreo o reentrenamiento.
+
+---
+
+## Versión final (Semana 3)
+
+- **Estructura detallada** del pipeline end-to-end adaptado al caso clínico.
+- **Selección de tecnologías** específica por etapa, con comparaciones justificadas.
+- **Diagrama actualizado** en Mermaid con etapas explícitas
+- **Supuestos bien definidos**, documentados y alineados con el problema real.
+- **Generación del CHANGELOG**, Con la comparación de los cambios entre la primera y segunda entrega
